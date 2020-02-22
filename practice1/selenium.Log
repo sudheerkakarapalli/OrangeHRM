@@ -1,0 +1,16 @@
+2020-02-13 13:24:50,165 INFO  [Log] chrome Browser Launched Successfully 
+2020-02-13 13:24:54,773 INFO  [Log] Successfully Launched OrangeHR Application 
+2020-02-13 13:24:54,917 INFO  [Log] Sucessfully Updated UserName 
+2020-02-13 13:24:55,075 INFO  [Log] Successfully Updated Password 
+2020-02-13 13:24:57,359 INFO  [Log] Successfully performed Click on LogIn Button 
+2020-02-13 13:24:57,359 INFO  [Log]  The Text of the UserName is : Admin 
+2020-02-13 13:24:57,383 INFO  [Log] The actual text is : Welcome Admin 
+2020-02-13 13:24:57,383 INFO  [Log] LogIN Successfull- PASS 
+2020-02-16 14:59:49,915 INFO  [Log] chrome Browser Launched Successfully 
+2020-02-16 14:59:54,109 INFO  [Log] Successfully Launched OrangeHR Application 
+2020-02-16 14:59:54,395 INFO  [Log] Sucessfully Updated UserName 
+2020-02-16 14:59:54,706 INFO  [Log] Successfully Updated Password 
+2020-02-16 14:59:56,582 INFO  [Log] Successfully performed Click on LogIn Button 
+2020-02-16 14:59:56,582 INFO  [Log]  The Text of the UserName is : Admin 
+2020-02-16 14:59:56,646 INFO  [Log] The actual text is : Welcome Admin 
+2020-02-16 14:59:56,647 INFO  [Log] LogIN Successfull- PASS 
